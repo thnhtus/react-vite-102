@@ -1,3 +1,26 @@
+# Ebb Scandinavia - Furniture Store
+
+A modern, minimalist e-commerce website built with React and Vite, featuring furniture products with a Scandinavian design aesthetic.
+
+## Features
+
+- 🎨 Minimalist Design
+- 📱 Fully Responsive Layout
+- 🛍️ Shopping Cart Functionality
+- 🔄 Smooth Animations
+- 📝 Product Details Pages
+- 📞 Contact Form
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- Vite
+- Framer Motion
+- React Router DOM
+
+## Project Structure
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
