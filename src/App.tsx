@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <CartProvider>
-      <Router basename="/your-repo-name">
+      <Router basename="/react-vite-102">
         <div className="App">
           <Header />
           <Routes>
