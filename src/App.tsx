@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <CartProvider>
-      <Router>
+      <Router basename="/your-repo-name">
         <div className="App">
           <Header />
           <Routes>
